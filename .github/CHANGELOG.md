@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Changes from release 2017/01 to 2017/02
 1. AIRAC (1702) - Luton (EGGW) MATCH1Y redesignated MATCH2Y - thanks to @cpawley (Chris Pawley)
 2. Carlisle (EGNC) Annan VRP added - thanks to @cpawley (Chris Pawley)
@@ -8,6 +9,10 @@
 7. Lydd (EGMD) RNAV fixes location moved to own file - thanks to @trevorhannant (Trevor Hannant)
 8. AIRAC (1702) - Luton (EGGW) Stand updates, additions and removals - thanks to @cpawley (Chris Pawley)
 
+=======
+# Changes from release 2017/01 to 2017/
+1. AIRAC (1608) - Gatwick (EGKK) SMR updated, removing/modifying/adding various stands.
+>>>>>>> c40eb842871df726ee656f2ede9843a8087c8281
 # Changes from release 2016/12 to 2017/01
 1. Corrected Copenhagen Control frequency (now 121.37) - thanks to @hsugden (Harry Sugden)
 2. Removed LIVSU fix from FIXES_OLD to prevent issue with UL980 - thanks to @agent_squash (Alex Ashley)
